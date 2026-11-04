@@ -1,4 +1,6 @@
-# Modelizacion-PCA-y-Clustering
+![Banner](banner/banner_github.png)
+
+## Proyecto
 
 _ES_:
 Exploración analítica del dataset 'palmerpenguins' y de las diferentes técnicas de agrupación aplicadas a este (ACP, K-medias, método jerárquico)
